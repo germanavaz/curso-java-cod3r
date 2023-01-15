@@ -1,0 +1,26 @@
+package controle;
+
+import java.util.Scanner;
+
+public class DesafioDiaSemana {
+	public static void main(String[] args) {
+		 /*
+		  * Pegar o dia da semana pelo scanner e retornar com numeros.
+		  * Ex: domingo - 1 
+		  * quarta - 4
+		  * 
+		  */
+		
+		Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("Escolha um dia da semana: ");
+		String dia = entrada.nextLine();
+		
+		if (dia.equals("domingo") ) {
+			System.out.println("1");
+		}
+
+		entrada.close();
+	}
+
+}
