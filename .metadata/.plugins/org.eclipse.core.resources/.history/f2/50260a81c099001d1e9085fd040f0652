@@ -1,0 +1,17 @@
+package classe;
+
+
+public class Data {
+	
+	int dia;
+	int mes;
+	int ano;
+	
+	//Desafio 1 - método para obter data formatada
+	
+	String dataFormatada() {
+		String data = dia + "/" + mes + "/" + ano;
+		return data;
+	}
+
+}
