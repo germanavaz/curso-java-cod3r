@@ -18,9 +18,10 @@ public class Data {
 	//Se chamar o construtor padrão o default precisa ser 01/01/1970
 	
 	Data() {
-		dia = 1;
-		mes = 1;
-		ano = 1970;
+		//dia = 1;
+		//mes = 1;
+		//ano = 1970;
+		this(1, 1, 1970);
 	}
 	
 	Data(int dia, int mes, int ano) {

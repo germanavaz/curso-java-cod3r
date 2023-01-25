@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="controle.Break"/>
+    <fullyQualifiedTypeName name="classe.AreaCirc"/>
+    <fullyQualifiedTypeName name="classe.DesafioPrimeiroTrauma"/>
+    <fullyQualifiedTypeName name="classe.DesafioPessoa"/>
+    <fullyQualifiedTypeName name="classe.DesafioComida"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
