@@ -1,0 +1,32 @@
+package arrays;
+
+import java.util.Scanner;
+
+public class DesafioArray {
+	
+	public static void main(String[] args) {
+		
+		/*
+		 * Calcular a média das notas de um aluno.
+		 * O usuário passará as notas.
+		 * Sistema pergunta quantas notas o usuário quer informar.
+		 * Dois laços for - armazenar notas num array e percorrer o array com foreach somando
+		 */
+		
+		Scanner entrada = new Scanner(System.in);
+
+		System.out.println("Quantas notas deseja informar?");
+		int quantidadeNotas = entrada.nextInt();
+		
+		double notasAluno[] = new double[quantidadeNotas];
+		for (int i = 0; i <= quantidadeNotas; i++) {
+			System.out.println("Digite uma nota:");
+			double nota = entrada.nextDouble();
+			notasAluno[i] = nota;
+			System.out.println("Nota " + (i + 1) "=" + nota);
+		}
+
+		entrada.close();
+	}
+
+}
