@@ -13,7 +13,6 @@
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.SortedSet"/>
     <fullyQualifiedTypeName name="java.util.TreeSet"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="colecoes.Usuario"/>
     <fullyQualifiedTypeName name="java.util.Queue"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
@@ -23,4 +22,12 @@
     <fullyQualifiedTypeName name="java.util.HashMap"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
     <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="oo.composicao.Produto"/>
+    <fullyQualifiedTypeName name="oo.heranca.Jogador"/>
+    <fullyQualifiedTypeName name="oo.encapsulamento.casaA.Ana"/>
+    <fullyQualifiedTypeName name="oo.polimorfismo.Pessoa"/>
+    <fullyQualifiedTypeName name="oo.polimorfismo.Arroz"/>
+    <fullyQualifiedTypeName name="oo.heranca.desafio.Esportivo"/>
 </qualifiedTypeNameHistroy>

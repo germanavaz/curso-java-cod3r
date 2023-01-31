@@ -1,0 +1,20 @@
+package oo.polimorfismo;
+
+public class Arroz extends Comida {
+	
+	private double peso;
+	
+	Arroz(double peso) {
+		super(peso);
+	}
+
+	public double getPeso() {
+		return peso;
+	}
+
+	public void setPeso(double peso) {
+		this.peso = peso;
+	}
+
+
+}

@@ -1,0 +1,13 @@
+package oo.composicao;
+
+public class Item {
+	
+	int quantidade;
+	
+	
+	Item(String produto, int quantidade) {
+		this.quantidade = quantidade;
+		
+	}
+
+}
