@@ -19,6 +19,7 @@ public class Consumidor {
 		Produto p5 = new Produto("Lapis", 4.52, 0.09);
 		
 		List<Produto> produtos = Arrays.asList(p1, p2, p3, p4, p5); 
+		
 		produtos.forEach(imprimirNome);
 		produtos.forEach(p -> System.out.println(p.preco));
 		produtos.forEach(System.out::println);

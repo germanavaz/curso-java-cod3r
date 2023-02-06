@@ -15,7 +15,7 @@ public class Produto {
 	@Override
 	public String toString() {
 		double precoFinal = preco * (1 - desconto);
-		return nome + " tem preço de RS" + precoFinal;
+		return nome + " tem preço de R$" + precoFinal;
 	}
 
 }
