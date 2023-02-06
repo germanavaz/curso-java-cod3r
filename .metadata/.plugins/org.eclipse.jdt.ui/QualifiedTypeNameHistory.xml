@@ -27,7 +27,6 @@
     <fullyQualifiedTypeName name="oo.polimorfismo.Pessoa"/>
     <fullyQualifiedTypeName name="oo.polimorfismo.Arroz"/>
     <fullyQualifiedTypeName name="oo.heranca.desafio.Esportivo"/>
-    <fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
     <fullyQualifiedTypeName name="lambdas.Consumidor"/>
     <fullyQualifiedTypeName name="java.util.function.Consumer"/>
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
@@ -37,10 +36,13 @@
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
     <fullyQualifiedTypeName name="br.com.cursojava.cm.excecao.ExplosaoException"/>
-    <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.util.function.Predicate"/>
     <fullyQualifiedTypeName name="java.util.function.Supplier"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.function.BiFunction"/>
+    <fullyQualifiedTypeName name="lambdas.Produto"/>
+    <fullyQualifiedTypeName name="java.util.function.BinaryOperator"/>
+    <fullyQualifiedTypeName name="java.util.function.Function"/>
     <fullyQualifiedTypeName name="java.util.function.UnaryOperator"/>
 </qualifiedTypeNameHistroy>
